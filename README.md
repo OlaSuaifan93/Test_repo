@@ -44,3 +44,14 @@ Here's a summary of the key steps discussed in the provided sources, presented i
     *   Add all new files (e.g., `setup.py`, `requirements.txt`, `src` folder) to Git using `git add .`.
     *   Commit the changes with a descriptive message like "setup.py and requirement setup" using `git commit -m "setup.py and requirement setup"`.
     *   Push the committed changes to the GitHub main branch using `git push -u origin main`.
+
+    after installing requimrements.txt a folder will be created that includes the package documents in my case its called Test_repo.egg-info .. this is due to the setup.py file. 
+    we can deploy these packages anywhere if we deploy it in pip
+
+
+
+    PART2
+
+    the whole setup process can be done via a template not manually. 
+
+   
