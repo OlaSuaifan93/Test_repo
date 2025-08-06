@@ -52,3 +52,5 @@ The `ModelTrainer` component executes after the `DataIngestion` (which reads dat
 
 ____
 
+GridSearchCV is a technique used in machine learning for hyperparameter tuning. It automates the process of finding the best hyperparameters for a given model by performing an exhaustive search over specified parameter values. This method utilizes cross-validation to assess the performance of each combination of hyperparameters, ensuring that the model is optimized for accuracy.
+
