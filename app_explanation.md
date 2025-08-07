@@ -1,3 +1,5 @@
+Flask deployment:
+
 render_template is a template rendering function within Flask. It is used to render a template from the template folder with the given context. The function takes two parameters: the name of the template to be rendered, or an iterable with template names the first one existing will be rendered, and the variables that should be available in the context of the template. The function returns a 200, with the template returned as the content at that URL
 
 
@@ -73,4 +75,10 @@ Here's a breakdown of its purpose and functionality:
 *   **Design and Focus**:
     *   The sources indicate that `home.html` is **"just a simple page HTML page with all the fields"**, emphasizing that the focus is on functionality rather than elaborate UI design. The UI part is generally considered the work of a front-end engineer,.
 
-  
+  _________
+AWS Deployment:
+
+AWS Elastic Beanstalk
+
+AWS Elastic Beanstalk is a service that simplifies the deployment and management of applications in the AWS Cloud. It abstracts the underlying infrastructure, allowing developers to focus on writing code rather than managing servers and other resources.
+
