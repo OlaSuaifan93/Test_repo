@@ -1,7 +1,7 @@
-Instructions and notes for end to end data science project with deployment 
+## Instructions and notes for end to end data science project with deployment 
 
 
-
+reference: https://github.com/krishnaik06/mlproject/tree/main 
 
 resource: https://www.youtube.com/playlist?list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG
 
