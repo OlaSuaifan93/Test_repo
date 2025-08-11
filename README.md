@@ -50,8 +50,5 @@ Here's a summary of the key steps discussed in the provided sources, presented i
 
 
 
-    PART2
-
-    the whole setup process can be done via a template not manually. 
 
    
