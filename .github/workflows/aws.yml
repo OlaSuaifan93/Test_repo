@@ -80,7 +80,12 @@ jobs:
       - name: Login to Amazon ECR
         id: login-ecr
         uses: aws-actions/amazon-ecr-login@v1
-      
+
+      - name: Free up disk space
+        run: |
+         sudo rm -rf /opt/hostedtoolcache
+         docker system prune -af
+         docker volume prune -f
       
       - name: Pull latest images
         run: |
